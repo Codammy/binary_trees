@@ -1,15 +1,6 @@
 # C - Binary trees
 `C` `Group Project` `Data Structure` `Algorithms`
 
-## Resources
-**Read or watch:**
-
-+ [Binary tree (note the first line: Not to be confused with B-tree.)]()
-+ [Data Structure and Algorithms - Tree]()
-+ [Tree Traversal]()
-+ [Binary Search Tree]()
-+ [Data structures: Binary Tree]()
-
 ### Learning Objectives
 At the end of this project, you are expected to be able to ![explain to anyone](), **without the help of Google**:
 
