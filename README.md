@@ -28,7 +28,8 @@ Please use the following data structures and types for binary trees. Don’t for
 
 **Basic Binary Tree**
 
-C```/**
+C
+```/**
  * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
@@ -47,8 +48,13 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 **Binary Search Tree**
-c```typedef struct binary_tree_s bst_t;```
-AVL Tree
-c```typedef struct binary_tree_s avl_t;```
-Max Binary Heap
-c```typedef struct binary_tree_s heap_t;```
+c
+```typedef struct binary_tree_s bst_t;```
+
+**AVL Tree**
+c
+```typedef struct binary_tree_s avl_t;```
+
+**Max Binary Heap**
+c
+```typedef struct binary_tree_s heap_t;```
